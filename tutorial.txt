@@ -1,1 +1,2 @@
 git tutoril
+adding git status
