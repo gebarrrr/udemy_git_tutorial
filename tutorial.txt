@@ -1,2 +1,3 @@
 git tutoril
 adding git status
+git diff
